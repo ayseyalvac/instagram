@@ -1,0 +1,93 @@
+
+body{
+   padding:65px;
+}
+
+
+nav{
+    height: 55px;
+}
+nav img{
+    width: 100px;
+    margin-left: 192px;
+}
+
+
+div input{
+    outline: 0px;
+    border: 0px;
+  
+}
+
+
+div form{
+   border: 1px solid rgb(224, 230, 233);
+   margin-left: 150px;
+}
+
+
+
+ul li img{
+    width: 18px;
+    margin-left: 0px;
+   
+}
+
+
+div .border{
+    width: 450px;
+    
+}
+
+.row{
+    margin-right: 250px;
+    
+}
+
+.text-muted{
+    font-size: small;
+}
+
+.ms-5{
+    font-size: medium;
+}
+
+i{
+    color: black;
+    font-size: larger;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+strong{
+    font-size: small;
+}
+
+.card-body{
+    height: 200px !important;
+    margin-left: -10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.collapse .middlearea{
+    height: 1900px !important;
+}
+
+::placeholder{
+    border-radius: 63px;
+    font-size: 15px;
+    color: gray;
+    background-position: 1px;
+    background-repeat:no-repeat;
+    background-size: 18px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/2048px-Search_Icon.svg.png");
+  }
+  
+  
